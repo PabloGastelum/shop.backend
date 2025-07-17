@@ -28,7 +28,7 @@ package.json               # Dependencias y scripts
 
 1. Clona el repositorio:
    ```
-   git clone <url-del-repositorio>
+   git clone https://github.com/PabloGastelum/shop.backend.git
    ```
 2. Instala las dependencias:
    ```
@@ -39,7 +39,7 @@ package.json               # Dependencias y scripts
 
 - `npm run dev`: Ejecuta el servidor en modo desarrollo con TypeScript usando ts-node.
 - `npm run build`: Compila el código TypeScript a JavaScript en la carpeta `dist`.
-- `npm start`: Compila y ejecuta el servidor desde `dist/server.js`.
+- `npm start`: Compila y ejecuta el servidor desde `dist/index.js`.
 
 Accede a la API en `http://localhost:3000` (puerto configurable en `server.ts`).
 
