@@ -5,6 +5,15 @@ import { handleError, writeFile } from "../utils";
 
 const ORDERS_PATH = path.join(__dirname, "../data/orders.json");
 
+const getOrders = (): Order[] => {
+  try {
+    const ordersFile = fs.readFileSync(ORDERS_PATH, "utf-8");
+    return JSON.parse(ordersFile) as Order[];
+  } catch (error) {
+    throw handleError(error);
+  }
+};
+
 const addOrder = (newOrder: Order): Order => {
   try {
     newOrder.id = crypto.randomUUID();
@@ -22,4 +31,4 @@ const addOrder = (newOrder: Order): Order => {
   }
 };
 
-export { addOrder };
+export { addOrder, getOrders };
