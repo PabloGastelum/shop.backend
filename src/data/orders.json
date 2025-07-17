@@ -1,0 +1,65 @@
+[
+  {
+    "client": {
+      "name": "Andres 3",
+      "address": "Mexico City",
+      "email": "Andres@gmail.com"
+    },
+    "products": [
+      {
+        "productId": "2",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "Pablo Gastelum",
+      "email": "gastelum.pablo@gmail.com",
+      "address": "Faisán 501"
+    },
+    "products": [
+      {
+        "productId": 4,
+        "quantity": 1
+      }
+    ],
+    "id": "a39d9b0f-71d7-48f8-8f7b-824d3e862b3c"
+  },
+  {
+    "client": {
+      "name": "Pablo Gastelum",
+      "email": "gastelum.pablo@gmail.com",
+      "address": "Faisán 501"
+    },
+    "products": [
+      {
+        "productId": 2,
+        "quantity": 1
+      },
+      {
+        "productId": 3,
+        "quantity": 1
+      }
+    ],
+    "id": "0ecd84af-95a3-455d-a451-f3f57acd2499"
+  },
+  {
+    "client": {
+      "name": "Pablo Gastelum",
+      "email": "gastelum.pablo@gmail.com",
+      "address": "Faisán 501"
+    },
+    "products": [
+      {
+        "productId": 4,
+        "quantity": 1
+      },
+      {
+        "productId": 3,
+        "quantity": 1
+      }
+    ],
+    "id": "21a136f1-28fa-4b88-bf85-88594638bccc"
+  }
+]

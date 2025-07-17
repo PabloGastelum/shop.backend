@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Fjallraven Backpack",
+    "price": 109.95,
+    "description": "Perfect pack for daily use and walks in the forest.",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mens Casual T-Shirts",
+    "price": 22.3,
+    "description": "Slim-fitting style, contrast raglan long sleeve.",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mens Cotton Jacket",
+    "price": 55.99,
+    "description": "Great outerwear jackets for Spring/Autumn/Winter.",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mens Casual Slim Fit",
+    "price": 15.99,
+    "description": "The color could be slightly different.",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "John Hardy Bracelet",
+    "price": 695,
+    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon.",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Solid Gold Petite Micropave",
+    "price": 168,
+    "description": "Satisfaction Guaranteed. Return or Exchange.",
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+  },
+  {
+    "id": 7,
+    "name": "White Gold Plated Princess",
+    "price": 9.99,
+    "description": "Classic Created Wedding Engagement Solitaire Diamond Ring.",
+    "image": "https://fakestoreapi.com/img/71ya6ZIXzpL._AC_UL640_QL65_ML3_.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Pierced Owl Rose Ring",
+    "price": 10.99,
+    "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings.",
+    "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+  },
+  {
+    "id": 9,
+    "name": "WD 2TB External HDD",
+    "price": 64,
+    "description": "USB 3.0 and USB 2.0 Compatibility.",
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
+  },
+  {
+    "id": 10,
+    "name": "SanDisk SSD PLUS 1TB",
+    "price": 109,
+    "description": "Easy upgrade for faster boot-up and application load times.",
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Silicon Power 256GB SSD",
+    "price": 109,
+    "description": "3D NAND flash are applied to deliver high transfer speeds.",
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
+  },
+  {
+    "id": 12,
+    "name": "WD 4TB Gaming Drive",
+    "price": 114,
+    "description": "Expand your console's storage capacity.",
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Acer SB220Q Monitor",
+    "price": 599,
+    "description": "21.5 inches Full HD (1920 x 1080) widescreen IPS display.",
+    "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Samsung 49-Inch Monitor",
+    "price": 999.99,
+    "description": "49-Inch CHG90 144Hz Curved Gaming Monitor.",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+  },
+  {
+    "id": 15,
+    "name": "BIYLACLESEN Jacket",
+    "price": 56.99,
+    "description": "Lightweight perfect for trip or casual wear.",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Lock and Love Rain Jacket",
+    "price": 29.95,
+    "description": "Lightweight water-resistant jacket for all seasons.",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Rain Jacket Windbreaker",
+    "price": 39.99,
+    "description": "Waterproof Windproof Windbreaker with hood.",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+  },
+  {
+    "id": 18,
+    "name": "MBJ Solid Short Sleeve",
+    "price": 9.85,
+    "description": "Solid Short Sleeve Boat Neck V",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Opna Women's Short Sleeve",
+    "price": 7.95,
+    "description": "Soft Moisture Wicking Athletic Shirt",
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+  },
+  {
+    "id": 20,
+    "name": "DANVOUY T Shirt",
+    "price": 12.99,
+    "description": "Casual Cotton Short Sleeve T-Shirt",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+  }
+]

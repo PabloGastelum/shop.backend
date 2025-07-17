@@ -1,0 +1,44 @@
+📄 Reto Técnico – Mini Plataforma de Pedidos Inteligente
+Rol asociado: Fullstack con enfoque técnico-consultivo
+Duración estimada del coding live: 1 hora
+Entregable final: App desplegada en Vercel + repositorio público
+🎯 Objetivo
+Desarrollar una app fullstack con frontend en Next.js y backend en API Routes, que permita simular un flujo de pedidos: desde la visualización de productos hasta la confirmación del pedido. Este ejercicio busca evaluar tu capacidad para construir soluciones funcionales, estructuradas, sostenibles y asistidas por IA, con despliegue en producción.
+
+🛠️ Alcance Técnico
+
+🔌 Backend
+GET /api/products: retorna un listado de productos simulados (pueden ser hardcoded o en archivo JSON).
+POST /api/orders: recibe un objeto de pedido (cliente + carrito), lo valida y lo registra (puede ser log a consola, almacenamiento en archivo JSON con fs, o en memoria).
+
+🧠 Uso obligatorio de herramientas de IA
+Durante el desarrollo del reto deberás apoyarte en herramientas como ChatGPT, GitHub Copilot o equivalentes para:
+Estructurar código base o funciones auxiliares.
+Corregir errores, refactorizar o validar decisiones técnicas.
+Mejorar la experiencia del usuario o el diseño visual.
+Deberás documentar qué partes usaron IA y cómo modificaste lo sugerido.
+
+✅ Requisitos funcionales
+Flujo de compra completo: catálogo → carrito → checkout → confirmación.
+Validación de datos en frontend y backend.
+UX limpia, funcional y responsive.
+Despliegue funcional en Vercel y compartido vía URL pública.
+Código claro, estructurado, modular y documentado.
+
+🎁 Extras (no obligatorios, pero bien valorados)
+Tests unitarios o de integración (Jest / Testing Library).
+Uso de TailwindCSS o similar para estilos rápidos y mantenibles.
+Manejo de errores con feedback visual adecuado.
+Persistencia con archivo local (fs) o mock DB.
+Arquitectura limpia y reutilizable.
+
+📦 Entregables
+URL de la app desplegada en Vercel (funcional).
+Repositorio público (GitHub) con:
+Código completo.
+README detallado:
+Instrucciones para correr localmente.
+Partes del código generadas/modificadas con IA.
+Decisiones técnicas clave.
+Cómo desplegar en Vercel (si aplica).
+Comentarios o insights personales (si los hubiera) sobre la experiencia de usar IA como copiloto.
